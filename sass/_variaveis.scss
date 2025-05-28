@@ -1,0 +1,18 @@
+@use 'sass:math';
+
+$fonte-principal: "Oxanium", sans-serif;
+$fonte-secundaria:  "Roboto", "sans-serif";
+$fonte-terciaria: "Zen Dots", "sans-serif";
+$tamanho-fonte-texto: 1.2rem;
+$branco-neutro: #f8f8f5;
+$preto-padrao: #000000;
+$roxo-titulo: #260C47;
+$fundo-cinza:#D9D8DA;
+$preenchimento-padrao: 1rem;
+$preenchimento-metade: calc($preenchimento-padrao/2);
+$tamanho-fonte-texto: 1.5rem;
+$tamanho-fonte-titulo: calc($tamanho-fonte-texto*3);
+$tamanho-fonte-subtitulo: calc($tamanho-fonte-texto*2);
+$espacamento-padrao: 1rem;
+$gap-queries: 0.5rem;
+$fonte-queries: 1rem;
